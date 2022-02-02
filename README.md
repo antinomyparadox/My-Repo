@@ -1,4 +1,4 @@
 # Example Repo
 This is just a sample repo, hello coders!
 
-this is a second change.
+Ps: at the moment this wont make much sense as I'm just starting with software so bear with me..
